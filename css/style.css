@@ -1,0 +1,26 @@
+div {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+body {
+    background-color: #f5f5dd;
+}
+
+.first {
+    background-color: rgba(0, 0, 0, 1);
+}
+
+.second {
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+.third {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.fourth {
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
